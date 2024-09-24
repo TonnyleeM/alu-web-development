@@ -1,0 +1,1 @@
+This project demonstrates advanced CSS techniques to create a modern, responsive web layout. It includes features such as flexbox, gradients, and custom fonts to enhance the visual appeal and usability of the web page.
